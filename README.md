@@ -1,5 +1,5 @@
-# bootstrap-boilerplate
+# Carousel Practice
 
-Project: Practice with bootstrap, practice uing github, and creation of a readme file
+Project: Practice creating bootstrap carousels
 
 tmccullar27@gmail.com
